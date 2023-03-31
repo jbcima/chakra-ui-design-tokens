@@ -937,6 +937,51 @@
         "value": "hsla(255,0%,100%,0.01)",
         "type": "color"
       }
+    },
+    "BlackAlpha": {
+      "50": {
+        "value": "RGBA(0, 0, 0, 0.04)",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
+      },
+      "100": {
+        "value": "RGBA(0, 0, 0, 0.06)",
+        "type": "color"
+      },
+      "200": {
+        "value": "RGBA(0, 0, 0, 0.08)",
+        "type": "color"
+      },
+      "300": {
+        "value": "RGBA(0, 0, 0, 0.16)",
+        "type": "color"
+      },
+      "400": {
+        "value": "RGBA(0, 0, 0, 0.24)",
+        "type": "color"
+      },
+      "500": {
+        "value": "RGBA(0, 0, 0, 0.36)",
+        "type": "color"
+      },
+      "600": {
+        "value": "RGBA(0, 0, 0, 0.48)",
+        "type": "color"
+      },
+      "700": {
+        "value": "RGBA(0, 0, 0, 0.64)",
+        "type": "color"
+      },
+      "800": {
+        "value": "RGBA(0, 0, 0, 0.80)",
+        "type": "color"
+      },
+      "900": {
+        "value": "RGBA(0, 0, 0, 0.92)",
+        "type": "color"
+      }
     }
   }
 }

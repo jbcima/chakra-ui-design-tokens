@@ -1,0 +1,48 @@
+{
+  "base": {
+    "value": "2px",
+    "type": "dimension"
+  },
+  "dimension": {
+    "50": {
+      "value": "{base}*2",
+      "type": "dimension"
+    },
+    "75": {
+      "value": "{base}*3",
+      "type": "dimension"
+    },
+    "100": {
+      "value": "{base}*4",
+      "type": "dimension"
+    },
+    "125": {
+      "value": "{base}*5",
+      "type": "dimension"
+    },
+    "150": {
+      "value": "{base}*6",
+      "type": "dimension"
+    },
+    "175": {
+      "value": "{base}*7",
+      "type": "dimension"
+    },
+    "200": {
+      "value": "{base}*8",
+      "type": "dimension"
+    },
+    "225": {
+      "value": "{base}*9",
+      "type": "dimension"
+    },
+    "250": {
+      "value": "{base}*10",
+      "type": "dimension"
+    },
+    "275": {
+      "value": "{base}*11",
+      "type": "dimension"
+    }
+  }
+}

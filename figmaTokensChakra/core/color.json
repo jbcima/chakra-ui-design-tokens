@@ -2351,7 +2351,7 @@
         }
       },
       "700": {
-        "value": "{color.amber.900} ",
+        "value": "{color.yellow.900} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2364,7 +2364,7 @@
         }
       },
       "800": {
-        "value": "{color.amber.900} ",
+        "value": "{color.yellow.900} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2377,7 +2377,7 @@
         }
       },
       "900": {
-        "value": "{color.amber.900} ",
+        "value": "{color.yellow.900} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {

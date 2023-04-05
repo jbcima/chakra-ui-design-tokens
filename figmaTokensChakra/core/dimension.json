@@ -3,8 +3,8 @@
     "value": "2px",
     "type": "dimension"
   },
-  "dimension": {
-    "size": {
+  "size": {
+    "dimension": {
       "50": {
         "value": "{base}*2",
         "type": "dimension"
@@ -137,7 +137,9 @@
         "value": "{base}*192",
         "type": "dimension"
       }
-    },
+    }
+  },
+  "dimension": {
     "space": {
       "1": {
         "value": "{base}*2",

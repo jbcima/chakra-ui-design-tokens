@@ -139,8 +139,8 @@
       }
     }
   },
-  "dimension": {
-    "space": {
+  "space": {
+    "dimension": {
       "1": {
         "value": "{base}*2",
         "type": "dimension"

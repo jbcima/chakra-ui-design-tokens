@@ -2917,6 +2917,138 @@
           }
         }
       }
+    },
+    "CyanAlpha": {
+      "50": {
+        "value": "{color.cyan.900} ",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "space": "lch",
+              "value": "0.04"
+            }
+          }
+        }
+      },
+      "100": {
+        "value": "{color.cyan.900} ",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "space": "lch",
+              "value": "0.06"
+            }
+          }
+        }
+      },
+      "200": {
+        "value": "{color.cyan.900} ",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "space": "lch",
+              "value": "0.08"
+            }
+          }
+        }
+      },
+      "300": {
+        "value": "{color.cyan.900} ",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "space": "lch",
+              "value": "0.16"
+            }
+          }
+        }
+      },
+      "400": {
+        "value": "{color.cyan.900} ",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "space": "lch",
+              "value": "0.24"
+            }
+          }
+        }
+      },
+      "500": {
+        "value": "{color.cyan.900} ",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "space": "lch",
+              "value": "0.36"
+            }
+          }
+        }
+      },
+      "600": {
+        "value": "{color.cyan.900} ",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "space": "lch",
+              "value": "0.48"
+            }
+          }
+        }
+      },
+      "700": {
+        "value": "{color.cyan.900} ",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "space": "lch",
+              "value": "0.64"
+            }
+          }
+        }
+      },
+      "800": {
+        "value": "{color.cyan.900} ",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "space": "lch",
+              "value": "0.80"
+            }
+          }
+        }
+      },
+      "900": {
+        "value": "{color.cyan.900} ",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "space": "lch",
+              "value": "0.92"
+            }
+          }
+        }
+      }
     }
   }
 }

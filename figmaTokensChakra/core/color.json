@@ -3710,9 +3710,9 @@
         }
       }
     },
-    "FucshiaAlpha": {
+    "FuchsiaAlpha": {
       "50": {
-        "value": "{color.fucshia.900} ",
+        "value": "{color.fuchsia.900} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3725,7 +3725,7 @@
         }
       },
       "100": {
-        "value": "{color.fucshia.900} ",
+        "value": "{color.fuchsia.900} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3738,7 +3738,7 @@
         }
       },
       "200": {
-        "value": "{color.fucshia.900} ",
+        "value": "{color.fuchsia.900} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3751,7 +3751,7 @@
         }
       },
       "300": {
-        "value": "{color.fucshia.900} ",
+        "value": "{color.fuchsia.900} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3764,7 +3764,7 @@
         }
       },
       "400": {
-        "value": "{color.fucshia.900} ",
+        "value": "{color.fuchsia.900} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3777,7 +3777,7 @@
         }
       },
       "500": {
-        "value": "{color.fucshia.900} ",
+        "value": "{color.fuchsia.900} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3790,7 +3790,7 @@
         }
       },
       "600": {
-        "value": "{color.fucshia.900} ",
+        "value": "{color.fuchsia.900} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3803,7 +3803,7 @@
         }
       },
       "700": {
-        "value": "{color.fucshia.900} ",
+        "value": "{color.fuchsia.900} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3816,7 +3816,7 @@
         }
       },
       "800": {
-        "value": "{color.fucshia.900} ",
+        "value": "{color.fuchsia.900} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3829,7 +3829,7 @@
         }
       },
       "900": {
-        "value": "{color.fucshia.900} ",
+        "value": "{color.fuchsia.900} ",
         "type": "color",
         "$extensions": {
           "studio.tokens": {

@@ -23,6 +23,7 @@
     "semantic/light",
     "semantic/dark",
     "Brand-ChakraDemo/light",
-    "Brand-ChakraDemo/dark"
+    "Brand-ChakraDemo/dark",
+    "core/dimension"
   ]
 }

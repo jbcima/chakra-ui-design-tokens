@@ -312,48 +312,6 @@
         }
       }
     },
-    "gray": {
-      "50": {
-        "value": "#f9fafb",
-        "type": "color"
-      },
-      "100": {
-        "value": "#f3f4f6",
-        "type": "color"
-      },
-      "200": {
-        "value": "#e5e7eb",
-        "type": "color"
-      },
-      "300": {
-        "value": "#d1d5db",
-        "type": "color"
-      },
-      "400": {
-        "value": "#9ca3af",
-        "type": "color"
-      },
-      "500": {
-        "value": "#6b7280",
-        "type": "color"
-      },
-      "600": {
-        "value": "#4b5563",
-        "type": "color"
-      },
-      "700": {
-        "value": "#374151",
-        "type": "color"
-      },
-      "800": {
-        "value": "#1f2937",
-        "type": "color"
-      },
-      "900": {
-        "value": "#111827",
-        "type": "color"
-      }
-    },
     "zinc": {
       "50": {
         "value": "#fafafa",

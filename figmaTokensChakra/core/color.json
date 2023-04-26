@@ -4,6 +4,46 @@
       "slate": {
         "value": "#64748b",
         "type": "color"
+      },
+      "gray": {
+        "value": "#718096",
+        "type": "color"
+      },
+      "red": {
+        "value": "#E53E3E",
+        "type": "color"
+      },
+      "orange": {
+        "value": "#DD6B20",
+        "type": "color"
+      },
+      "yellow": {
+        "value": "#D69E2E",
+        "type": "color"
+      },
+      "green": {
+        "value": "#38A169",
+        "type": "color"
+      },
+      "teal": {
+        "value": "#319795",
+        "type": "color"
+      },
+      "blue": {
+        "value": "#3182CE",
+        "type": "color"
+      },
+      "cyan": {
+        "value": "#00B5D8",
+        "type": "color"
+      },
+      "purple": {
+        "value": "#805AD5",
+        "type": "color"
+      },
+      "pink": {
+        "value": "#D53F8C",
+        "type": "color"
       }
     },
     "slate": {

@@ -2,7 +2,7 @@
   "tokenSetOrder": [
     "core/border",
     "core/color",
-    "core/color-v.1",
+    "core/color-v1",
     "core/opacity",
     "core/size",
     "core/space",

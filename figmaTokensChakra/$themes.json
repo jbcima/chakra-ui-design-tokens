@@ -23,8 +23,7 @@
       "comp/icon-button": "enabled",
       "comp/tab": "enabled",
       "comp/text": "enabled",
-      "comp/tooltip": "enabled",
-      "core/color-v1": "disabled"
+      "comp/tooltip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -53,8 +52,7 @@
       "comp/icon-button": "enabled",
       "comp/tab": "enabled",
       "comp/text": "enabled",
-      "comp/tooltip": "enabled",
-      "core/color-v1": "disabled"
+      "comp/tooltip": "enabled"
     },
     "$figmaStyleReferences": {}
   }

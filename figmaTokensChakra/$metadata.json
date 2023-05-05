@@ -4,7 +4,7 @@
     "core/color",
     "core/opacity",
     "core/size",
-    "core/space",
+    "core/spacing",
     "core/typography",
     "comp/avatar",
     "comp/button",

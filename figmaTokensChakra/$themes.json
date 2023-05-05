@@ -4,7 +4,6 @@
     "name": "light",
     "selectedTokenSets": {
       "comp/button": "enabled",
-      "core/border": "source",
       "core/color": "source",
       "core/opacity": "source",
       "core/size": "source",
@@ -23,7 +22,8 @@
       "comp/icon-button": "enabled",
       "comp/tab": "enabled",
       "comp/text": "enabled",
-      "comp/tooltip": "enabled"
+      "comp/tooltip": "enabled",
+      "core/radii": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -32,7 +32,6 @@
     "name": "dark",
     "selectedTokenSets": {
       "comp/button": "enabled",
-      "core/border": "source",
       "core/color": "source",
       "core/opacity": "source",
       "core/size": "source",
@@ -52,7 +51,8 @@
       "comp/icon-button": "enabled",
       "comp/tab": "enabled",
       "comp/text": "enabled",
-      "comp/tooltip": "enabled"
+      "comp/tooltip": "enabled",
+      "core/radii": "source"
     },
     "$figmaStyleReferences": {}
   }

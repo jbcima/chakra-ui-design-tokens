@@ -8,7 +8,6 @@
       "core/color": "source",
       "core/opacity": "source",
       "core/size": "source",
-      "core/space": "source",
       "core/typography": "source",
       "semantic/light": "enabled",
       "comp/checkbox": "enabled",
@@ -23,7 +22,8 @@
       "comp/icon-button": "enabled",
       "comp/tab": "enabled",
       "comp/text": "enabled",
-      "comp/tooltip": "enabled"
+      "comp/tooltip": "enabled",
+      "core/spacing": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -36,7 +36,6 @@
       "core/color": "source",
       "core/opacity": "source",
       "core/size": "source",
-      "core/space": "source",
       "core/typography": "source",
       "semantic/light": "enabled",
       "semantic/dark": "enabled",
@@ -52,7 +51,8 @@
       "comp/icon-button": "enabled",
       "comp/tab": "enabled",
       "comp/text": "enabled",
-      "comp/tooltip": "enabled"
+      "comp/tooltip": "enabled",
+      "core/spacing": "source"
     },
     "$figmaStyleReferences": {}
   }

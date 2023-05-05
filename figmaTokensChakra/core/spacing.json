@@ -1,0 +1,128 @@
+{
+  "spacing": {
+    "1": {
+      "value": "0.25rem",
+      "type": "spacing"
+    },
+    "2": {
+      "value": "0.5rem",
+      "type": "spacing"
+    },
+    "3": {
+      "value": "0.75rem",
+      "type": "spacing"
+    },
+    "4": {
+      "value": "1rem",
+      "type": "spacing"
+    },
+    "5": {
+      "value": "1.25rem",
+      "type": "spacing"
+    },
+    "6": {
+      "value": "1.5rem",
+      "type": "spacing"
+    },
+    "7": {
+      "value": "1.75rem",
+      "type": "spacing"
+    },
+    "8": {
+      "value": "2rem",
+      "type": "spacing"
+    },
+    "9": {
+      "value": "2.25rem",
+      "type": "spacing"
+    },
+    "10": {
+      "value": "2.5rem",
+      "type": "spacing"
+    },
+    "12": {
+      "value": "3rem",
+      "type": "spacing"
+    },
+    "14": {
+      "value": "3.5rem",
+      "type": "spacing"
+    },
+    "16": {
+      "value": "4rem",
+      "type": "spacing"
+    },
+    "20": {
+      "value": "5rem",
+      "type": "spacing"
+    },
+    "24": {
+      "value": "6rem",
+      "type": "spacing"
+    },
+    "28": {
+      "value": "7rem",
+      "type": "spacing"
+    },
+    "32": {
+      "value": "8rem",
+      "type": "spacing"
+    },
+    "36": {
+      "value": "9rem",
+      "type": "spacing"
+    },
+    "40": {
+      "value": "10rem",
+      "type": "spacing"
+    },
+    "44": {
+      "value": "11rem",
+      "type": "spacing"
+    },
+    "48": {
+      "value": "12rem",
+      "type": "spacing"
+    },
+    "56": {
+      "value": "14rem",
+      "type": "spacing"
+    },
+    "60": {
+      "value": "15rem",
+      "type": "spacing"
+    },
+    "64": {
+      "value": "16rem",
+      "type": "spacing"
+    },
+    "72": {
+      "value": "18rem",
+      "type": "spacing"
+    },
+    "80": {
+      "value": "20rem",
+      "type": "spacing"
+    },
+    "96": {
+      "value": "24rem",
+      "type": "spacing"
+    },
+    "0-5": {
+      "value": "0.125rem",
+      "type": "spacing"
+    },
+    "1-5": {
+      "value": "0.375rem",
+      "type": "spacing"
+    },
+    "2-5": {
+      "value": "0.625rem",
+      "type": "spacing"
+    },
+    "3-5": {
+      "value": "0.875rem",
+      "type": "spacing"
+    }
+  }
+}

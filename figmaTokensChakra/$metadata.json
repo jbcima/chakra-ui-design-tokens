@@ -1,9 +1,10 @@
 {
   "tokenSetOrder": [
-    "core/border",
+    "core/radii",
     "core/color",
+    "core/color-v1",
     "core/opacity",
-    "core/size",
+    "core/sizes",
     "core/space",
     "core/typography",
     "comp/avatar",

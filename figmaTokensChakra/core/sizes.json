@@ -1,0 +1,82 @@
+{
+  "sizes": {
+    "full": {
+      "value": "100%",
+      "type": "sizing"
+    },
+    "3xs": {
+      "value": "14rem",
+      "type": "sizing"
+    },
+    "2xs": {
+      "value": "16rem",
+      "type": "sizing"
+    },
+    "xs": {
+      "value": "20rem",
+      "type": "sizing"
+    },
+    "sm": {
+      "value": "24rem",
+      "type": "sizing"
+    },
+    "md": {
+      "value": "28rem",
+      "type": "sizing"
+    },
+    "lg": {
+      "value": "32rem",
+      "type": "sizing"
+    },
+    "xl": {
+      "value": "36rem",
+      "type": "sizing"
+    },
+    "2xl": {
+      "value": "42rem",
+      "type": "sizing"
+    },
+    "3xl": {
+      "value": "48rem",
+      "type": "sizing"
+    },
+    "4xl": {
+      "value": "56rem",
+      "type": "sizing"
+    },
+    "5xl": {
+      "value": "64rem",
+      "type": "sizing"
+    },
+    "6xl": {
+      "value": "72rem",
+      "type": "sizing"
+    },
+    "7xl": {
+      "value": "80rem",
+      "type": "sizing"
+    },
+    "8xl": {
+      "value": "90rem",
+      "type": "sizing"
+    },
+    "container": {
+      "sm": {
+        "value": "40rem",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "48rem",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "64rem",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "80rem",
+        "type": "sizing"
+      }
+    }
+  }
+}

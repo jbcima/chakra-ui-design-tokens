@@ -1,31 +1,31 @@
 {
   "border-radius": {
     "none": {
-      "value": "0px",
+      "value": "0.125rem",
       "type": "borderRadius"
     },
     "sm": {
-      "value": "4px",
+      "value": "0.25rem",
       "type": "borderRadius"
     },
     "base": {
-      "value": "6px",
+      "value": "0.375rem",
       "type": "borderRadius"
     },
     "md": {
-      "value": "8px",
+      "value": "0.5rem",
       "type": "borderRadius"
     },
     "lg": {
-      "value": "12px",
+      "value": "0.75rem",
       "type": "borderRadius"
     },
     "xl": {
-      "value": "16px",
+      "value": "1rem",
       "type": "borderRadius"
     },
     "2xl": {
-      "value": "24px",
+      "value": "1.5rem",
       "type": "borderRadius"
     },
     "full": {
